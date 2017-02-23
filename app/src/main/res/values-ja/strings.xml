@@ -1,0 +1,74 @@
+<resources>
+    <string name="appti">頼みます</string>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">自分の電話番号を入力
+</string>
+    <string name="selectcountry">国を選択</string>
+    <string name="addpost">投稿を追加</string>
+    <string name="chooselanguage">言語を選択してください。</string>
+    <string name="logout">ログアウト</string>
+    <string name="sending_sms">私たちは、にSMSを送っています</string>
+    <string name="needto">あなたはログアウトするには必要</string>
+    <string name="inprogress">
+進行中の検証</string>
+    <string name="verified">検証に成功</string>
+    <string name="failed">検証に失敗しました
+</string>
+    <string name="entercode">あなたが受け取ったコードを入力してください</string>
+    <string name="welcomeuser">
+ようこそユーザー</string>
+    <string name="loginfb">
+Facebookとログイン</string>
+    <string name="loginno">電話なしでログインし</string>
+    <string name="phoneno">電話番号</string>
+    <string name="password">パスワード</string>
+    <string name="password1">パスワードを入力する
+</string>
+    <string name="password2">パスワード再入力
+</string>
+    <string name="submit">提出します
+</string>
+    <string name="returnwel">ポストの活動に戻ります</string>
+    <string name="login">ログイン</string>
+    <string name="register">あなたなしを登録</string>
+    <string name="countrycode">国コード</string>
+    <string name="enterccode">OTPを入力してください</string>
+    <string name="verifyandwait">OTPを送ります</string>
+    <string name="verify">OTPを確認します</string>
+    <string name="createuser">ユーザーの作成</string>
+    <string name="title">タイトル</string>
+    <string name="description">説明</string>
+    <string name="cantedit">
+あなたはuが投稿したものだけを上書きすることができます</string>
+    <string name="info">
+アプリケーション情報</string>
+    <string name="ok">
+[OK]</string>
+    <string name="infotitle">アプリケーションを使用する方法</string>
+    <string name="infomessage1"> 3つの方法のいずれかでアプリにログイン</string>
+    <string name="infomessage2"> のログイン時の電話番号は、国際形式である必要があります </string>
+    <string name="infomessage3"> あなたは既にユーザーによって行わ記事の一覧を見ることができます </string>
+    <string name="infomessage4">  それを表示するには、記事のタイトルをクリックしてください </string>
+    <string name="infomessage5"> あなたはそれを掲載している場合は、編集する記事のタイトル上で長押し </string>
+    <string name="infomessage6"> あなたは、追加アイコンをクリックして、新しいポストを追加することができます </string>
+    <string name="infomessage7"> あなたが言語を選択するか、設定だけでログアウトすることができます </string>
+    <string name="languagesavail1"> 英語 </string>
+    <string name="languagesavail2"> ヒンディー語 </string>
+    <string name="languagesavail3"> フランス語 </string>
+    <string name="languagesavail4"> ドイツ人 </string>
+    <string name="languagesavail5"> イタリアの </string>
+    <string name="languagesavail6"> 日本語 </string>
+    <string name="languagesavail7">
+韓国語 </string>
+    <string name="languagesavail8"> アラビア語 </string>
+    <string name="languagesavail9"> ルーマニア語 </string>
+    <string name="passno">
+パスワードが一致しません。</string>
+    <string name="userde">使用者はいません</string>
+    <string name="wrong">
+間違ったパスワード</string>
+    <string name="successver">
+検証に成功</string>
+    <string name="tryaga">再試行する</string>
+</resources>

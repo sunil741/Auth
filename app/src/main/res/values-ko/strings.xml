@@ -1,0 +1,69 @@
+<resources>
+    <string name="appti">청하다</string>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">전화 번호를 입력</string>
+    <string name="selectcountry">국가 선택</string>
+    <string name="addpost">포스트 추가</string>
+    <string name="chooselanguage">언어 선택</string>
+    <string name="logout">로그 아웃</string>
+    <string name="sending_sms">우리는에 SMS를 보내는</string>
+    <string name="needto">당신은 로그 아웃하기 위해 필요</string>
+    <string name="inprogress">
+진행 확인</string>
+    <string name="verified">성공적인 검증</string>
+    <string name="failed">인증 실패</string>
+    <string name="entercode">받은 코드를 입력하세요</string>
+    <string name="welcomeuser">
+에 오신 것을 환영합니다 사용자</string>
+    <string name="loginfb">페이스 북으로 로그인</string>
+    <string name="loginno">아니 전화로 로그인</string>
+    <string name="phoneno">전화 번호</string>
+    <string name="password">암호</string>
+    <string name="password1">암호를 입력</string>
+    <string name="password2">비밀번호를 다시 입력하세요</string>
+    <string name="submit">제출</string>
+    <string name="returnwel">사후 활동으로 돌아 가기
+</string>
+    <string name="login">로그인</string>
+    <string name="register">당신의 아니오 등록
+</string>
+    <string name="countrycode">국가 코드</string>
+    <string name="enterccode">OTP를 입력
+</string>
+    <string name="verifyandwait">OTP 보내기
+</string>
+    <string name="verify">OTP 확인
+</string>
+    <string name="createuser">사용자 만들기
+</string>
+    <string name="title">표제</string>
+    <string name="description">기술</string>
+    <string name="cantedit">당신은 u는 게시 한 것만을 덮어 쓸 수 있습니다</string>
+    <string name="info">응용 프로그램 정보</string>
+    <string name="ok">OK</string>
+    <string name="infotitle">어떻게 응용 프로그램을 사용하는 방법</string>
+    <string name="infomessage1"> 세 가지 방법 중 하나를 사용하여 앱에 로그인</string>
+    <string name="infomessage2"> 로그인하는 동안 전화 번호가 국제 형식이어야합니다 </string>
+    <string name="infomessage3"> 당신은 이미 사용자에 의해 수행 게시물의 목록을 볼 수 있습니다 </string>
+    <string name="infomessage4">  그것을 볼 수있는 게시물 제목을 클릭 </string>
+    <string name="infomessage5">
+당신이 그것을 게시하는 경우 게시물 제목에 길게 누르면 편집 </string>
+    <string name="infomessage6"> 당신은 추가 아이콘을 클릭하여 새 게시물을 추가 할 수 있습니다 </string>
+    <string name="infomessage7"> 당신은 언어를 선택하거나 설정에서 로그 아웃 할 수 있습니다 </string>
+    <string name="languagesavail1"> 영어 </string>
+    <string name="languagesavail2"> 힌디 어 </string>
+    <string name="languagesavail3"> 프랑스 국민 </string>
+    <string name="languagesavail4"> 독일 사람 </string>
+    <string name="languagesavail5"> 이탈리아 사람 </string>
+    <string name="languagesavail6"> 일본어 </string>
+    <string name="languagesavail7"> 한국어 </string>
+    <string name="languagesavail8"> 아라비아 말 </string>
+    <string name="languagesavail9"> 루마니아 사람 </string>
+    <string name="passno">
+비밀번호가 일치하지 않습니다</string>
+    <string name="userde">사용자가 존재하지 않습니다</string>
+    <string name="wrong">잘못된 비밀번호</string>
+    <string name="successver">성공적으로 확인</string>
+    <string name="tryaga">다시 시도</string>
+</resources>

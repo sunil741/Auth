@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/addblog" android:title="@string/addpost"
+        android:icon="@mipmap/ic_note_add_black_24dp"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/infoapp" android:title="@string/info" android:icon="@mipmap/ic_info_black_24dp" app:showAsAction="always"></item>
+    <item app:showAsAction="never" android:icon="@mipmap/ic_settings_black_24dp" android:id="@+id/action_settings" android:title="@string/chooselanguage"
+    ></item>
+    <item app:showAsAction="never" android:icon="@mipmap/ic_settings_black_24dp" android:id="@+id/action_settings_logout" android:title="@string/logout"></item>
+
+</menu>

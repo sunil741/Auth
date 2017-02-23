@@ -1,0 +1,80 @@
+
+<resources>
+    <string name="appti">
+demander</string>
+<string name="app_name">Auth</string>
+<string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">
+Entrez votre numéro de téléphone</string>
+<string name="selectcountry">Sélectionner le pays</string>
+<string name="addpost">Ajouter Poster</string>
+<string name="chooselanguage">Choisissez la langue</string>
+<string name="logout">Se déconnecter</string>
+<string name="sending_sms">Nous envoyer un sms à</string>
+<string name="needto">Vous devez déconnecter</string>
+<string name="inprogress">Vérification en cours</string>
+    <string name="verified">Vérification réussie
+</string>
+    <string name="failed">
+Échec de la vérification</string>
+<string name="entercode">S\'il vous plaît entrez le code que vous avez reçu</string>
+<string name="welcomeuser">Bienvenue utilisateur !!!</string>
+<string name="loginfb">Se connecter avec Facebook</string>
+<string name="loginno">Connectez-vous avec Téléphone</string>
+<string name="phoneno">Pas de téléphone</string>
+<string name="password">Mot de passe</string>
+<string name="password1">Entrer le mot de passe</string>
+    <string name="password2">
+Retaper le mot de passe</string>
+<string name="submit">Soumettre</string>
+<string name="returnwel">Retour à l\'activité post</string>
+<string name="login">S\'identifier</string>
+<string name="register">Inscrivez votre numéro</string>
+<string name="countrycode">Code postal</string>
+<string name="enterccode">Entrez OTP</string>
+<string name="verifyandwait">Envoyer OTP</string>
+    <string name="verify">
+Vérifiez OTP</string>
+    <string name="createuser">
+Créer un utilisateur</string>
+    <string name="title">
+Titre</string>
+<string name="description">La description</string>
+<string name="cantedit">Vous pouvez remplacer seulement ce que u ont posté</string>
+    <string name="info">
+Renseignements sur la demande</string>
+    <string name="ok">OK</string>
+    <string name="infotitle">Comment faire pour utiliser l\'application</string>
+    <string name="infomessage1">
+Connectez-vous à l\'application avec l\'une des trois méthodes</string>
+    <string name="infomessage2"> numéro de téléphone doit être au format international lors de la connexion </string>
+    <string name="infomessage3"> vous pouvez voir une liste des postes déjà effectuées par les utilisateurs </string>
+    <string name="infomessage4">
+cliquez sur un titre de poste pour le voir </string>
+    <string name="infomessage5">
+appui long sur un titre de poste pour modifier si vous avez posté il </string>
+    <string name="infomessage6"> vous pouvez ajouter un nouveau message en cliquant sur l\'icône Ajouter </string>
+    <string name="infomessage7">
+vous pouvez choisir la langue ou tout simplement déconnecter dans les paramètres </string>
+    <string name="languagesavail1">
+Anglais </string>
+    <string name="languagesavail2">
+hindi </string>
+    <string name="languagesavail3"> français </string>
+    <string name="languagesavail4"> allemand </string>
+    <string name="languagesavail5">
+italien </string>
+    <string name="languagesavail6"> Japonais </string>
+    <string name="languagesavail7"> coréen </string>
+    <string name="languagesavail8"> Arabe </string>
+    <string name="languagesavail9">
+roumain </string>
+    <string name="passno">
+Les mots de passe ne correspondent pas</string>
+    <string name="userde">
+L\'utilisateur n\'existe pas</string>
+    <string name="wrong">Mauvais mot de passe</string>
+    <string name="successver">
+    vérifié avec succès</string>
+    <string name="tryaga">Réessayer</string>
+</resources>

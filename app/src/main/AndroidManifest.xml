@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.suniltg.auth">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/your_logo"
+        tools:replace="android:label"
+        android:label="@string/appti"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_ID" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            tools:replace="android:theme" />
+        <activity android:name=".Main2Activity" />
+        <activity android:name=".Keyactivity" />
+        <activity android:name=".PhoneLogin" />
+        <activity android:name=".Main3Activity" />
+        <activity android:name=".Main7Activity" />
+        <activity android:name=".VerificationActivity" />
+        <activity android:name=".Phone_Register" />
+        <activity android:name=".User_Register" />
+        <activity android:name=".WelcomeBackActivity" />
+        <activity android:name=".PostActivity" />
+        <activity android:name=".BlogViewActivity" />
+        <activity android:name=".EditActivity"></activity>
+    </application>
+
+</manifest>

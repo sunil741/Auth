@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appti">पुचो</string>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">अपना दूरभाष क्रमांक दर्ज करें</string>
+    <string name="selectcountry">देश चुनिए</string>
+    <string name="addpost">पोस्ट जोड़ें</string>
+    <string name="chooselanguage">भाषा चुनें</string>
+    <string name="logout">
+लोग आउट</string>
+    <string name="sending_sms">हम एक एसएमएस भेज कर रहे हैं \</string>
+    <string name="inprogress">प्रगति में सत्यापन</string>
+    <string name="verified">सत्यापन सफल</string>
+    <string name="failed">सत्यापन में विफल रहा</string>
+    <string name="needto">आप लॉगआउट करने की आवश्यकता</string>
+    <string name="entercode">कोड आप प्राप्त दर्ज करें</string>
+    <string name="welcomeuser">स्वागत उपयोगकर्ता !!!</string>
+    <string name="loginfb">फेसबुक में जाये</string>
+    <string name="loginno">फोन के साथ लॉगिन कोई</string>
+    <string name="phoneno">फोन नंबर</string>
+    <string name="password">पासवर्ड</string>
+    <string name="password1">पास वर्ड दर्ज करें</string>
+    <string name="password2">पासवर्ड फिर से दर्ज करें</string>
+    <string name="submit">जमा करें</string>
+    <string name="returnwel">पोस्ट गतिविधि के लिए लौटें</string>
+    <string name="login">लॉग इन करें</string>
+    <string name="register">रजिस्ट्रेशन नहीं</string>
+    <string name="countrycode">देश कोड</string>
+    <string name="enterccode">ओटीपी दर्ज</string>
+    <string name="verifyandwait">ओटीपी भेजें</string>
+    <string name="verify">
+ओटीपी सत्यापित करें</string>
+
+    <string name="createuser">उपयोगकर्ता बनाइये</string>
+    <string name="title">शीर्षक</string>
+    <string name="description">
+विवरण</string>
+    <string name="cantedit">आप केवल ऊपर लिख सकते हैं क्या यू पोस्ट किया है</string>
+    <string name="info">आवेदन की सूचना</string>
+    <string name="ok">
+ठीक</string>
+    <string name="infotitle">
+कैसे आवेदन का उपयोग करने</string>
+    <string name="infomessage1">
+तीन तरीकों में से किसी के साथ ऐप्लिकेशन में प्रवेश करें</string>
+    <string name="infomessage2">
+फोन नंबर के अंतरराष्ट्रीय प्रारूप में होना चाहिए, जबकि में प्रवेश </string>
+    <string name="infomessage3"> आप पहले से ही उपयोगकर्ताओं द्वारा किया पदों की एक सूची देख सकते हैं </string>
+    <string name="infomessage4">
+यह देखने के लिए एक पोस्ट शीर्षक पर क्लिक करें </string>
+    <string name="infomessage5"> एक के बाद खिताब पर लंबे समय प्रेस को संपादित करने के लिए यदि आप इसे पोस्ट किया है </string>
+    <string name="infomessage6">
+आप ऐड आइकन पर क्लिक करके एक नई पोस्ट में जोड़ सकते हैं </string>
+    <string name="infomessage7"> आप भाषा का चयन कर सकते हैं या बस सेटिंग्स में लॉगआउट </string>
+    <string name="languagesavail1"> अंग्रेज़ी </string>
+    <string name="languagesavail2">
+हिंदी </string>
+    <string name="languagesavail3">
+फ्रेंच </string>
+    <string name="languagesavail4">
+जर्मन </string>
+    <string name="languagesavail5"> इतालवी </string>
+    <string name="languagesavail6"> जापानी </string>
+    <string name="languagesavail7">
+कोरियाई </string>
+    <string name="languagesavail8"> अरबी </string>
+    <string name="languagesavail9"> रोमानियाई </string>
+    <string name="passno">पासवर्ड मेल नहीं खाता</string>
+    <string name="userde">प्रयोक्ता मौजूद नहीं है</string>
+    <string name="wrong">गलत पासवर्ड</string>
+    <string name="successver">सफलतापूर्वक सत्यापित</string>
+    <string name="tryaga">पुनः प्रयास करें</string>
+</resources>

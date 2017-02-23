@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="appti">Cere</string>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">
+Introdu numarul tau de telefon</string>
+    <string name="addpost">Add Post</string>
+    <string name="chooselanguage">Choose Language</string>
+    <string name="logout">Logout</string>
+    <string name="selectcountry">Selecteaza tara</string>
+    <string name="sending_sms">
+Vă trimitem un sms la</string>
+    <string name="inprogress">Verificarea în curs</string>
+    <string name="verified">verificarea cu succes
+</string>
+    <string name="failed">verificarea nu a reușit</string>
+    <string name="entercode">Vă rugăm să introduceți codul primit</string>
+    <string name="welcomeuser">utilizator Bine ai venit</string>
+    <string name="loginfb">Logheaza-te cu Facebook</string>
+    <string name="loginno">Conectare Telefon ÎMPREUNĂ</string>
+    <string name="phoneno">Niciun telefon</string>
+    <string name="password">Parola</string>
+    <string name="password1">Introdu parola</string>
+    <string name="password2">Reintrodu parola</string>
+    <string name="submit">A depune</string>
+    <string name="returnwel">Return To post Activitate</string>
+    <string name="login">Logare</string>
+    <string name="register">
+Înregistrează-te nr dvs.</string>
+    <string name="countrycode">Codul tarii</string>
+    <string name="enterccode">OTP intra</string>
+    <string name="verifyandwait">OTP trimit</string>
+    <string name="verify">confirmaţi OTP</string>
+    <string name="createuser">Creați un utilizator
+</string>
+    <string name="title">Titlu</string>
+    <string name="description">Descriere</string>
+    <string name="cantedit">
+Puteți să suprascrie doar ceea ce u au postat</string>
+    <string name="info">Informații aplicație</string>
+    <string name="ok">OK</string>
+    <string name="infotitle">
+Cum se folosește aplicația</string>
+    <string name="infomessage1">
+Conectați-vă în app cu oricare dintre cele trei metode</string>
+    <string name="infomessage2">
+Numărul de telefon trebuie să fie în format internațional, în timp ce logare </string>
+    <string name="infomessage3"> puteți vedea o listă de posturi deja efectuate de către utilizatori </string>
+    <string name="infomessage4">  faceți clic pe un titlu post pentru a putea vizualiza pagina </string>
+    <string name="infomessage5"> apăsați lung pe un titlu de post pentru a edita dacă ați postat </string>
+    <string name="infomessage6"> puteți adăuga un nou post, făcând clic pe pictograma de adăugare </string>
+    <string name="infomessage7">
+puteți alege limba sau pur și simplu deconectezi în setările </string>
+    <string name="languagesavail1"> Engleză </string>
+    <string name="languagesavail2"> Hindi </string>
+    <string name="languagesavail3">
+limba franceza </string>
+    <string name="languagesavail4"> germană </string>
+    <string name="languagesavail5"> Italiană </string>
+    <string name="languagesavail6"> japonez </string>
+    <string name="languagesavail7">
+coreeană </string>
+    <string name="languagesavail8"> Arabic </string>
+    <string name="languagesavail9"> Română </string>
+    <string name="passno">Parolele nu se potrivește</string>
+    <string name="userde">Utilizatorul nu exista</string>
+    <string name="wrong">Parola gresita</string>
+    <string name="successver">
+a verificat cu succes</string>
+    <string name="tryaga">
+Încearcă din nou</string>
+</resources>

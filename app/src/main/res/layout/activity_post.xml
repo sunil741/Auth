@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context="com.example.suniltg.auth.PostActivity"
+    android:gravity="bottom"
+    android:background="#1647d8">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/post_title"
+            android:layout_marginTop="109dp"
+            android:layout_below="@+id/post_lan"
+            android:layout_toEndOf="@+id/textView9" />
+
+
+
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/submit"
+            android:id="@+id/submit"
+            android:layout_marginTop="46dp"
+            android:layout_below="@+id/scrollView"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="New Text"
+            android:id="@+id/post_lan"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="144dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/title"
+            android:id="@+id/textView9"
+            android:layout_alignBottom="@+id/post_title"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/description"
+            android:id="@+id/textView10"
+            android:layout_alignTop="@+id/scrollView"
+            android:layout_alignParentStart="true" />
+        <ScrollView
+            android:layout_width="fill_parent"
+            android:layout_height="120dp"
+            android:id="@+id/scrollView"
+            android:layout_alignTop="@+id/post_title"
+            android:layout_marginTop="100dp"
+            android:layout_centerHorizontal="true" >
+
+
+
+
+        <EditText
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/post_desc"
+            android:layout_alignBottom="@+id/textView10"
+            android:layout_toEndOf="@+id/textView10" />
+        </ScrollView>
+
+    </RelativeLayout>
+</LinearLayout>

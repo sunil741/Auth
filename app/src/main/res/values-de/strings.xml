@@ -1,0 +1,70 @@
+<resources>
+    <string name="appti">Fragen</string>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">Gib deine Telefonnummer ein</string>
+    <string name="selectcountry">Land auswählen</string>
+    <string name="addpost">hinzufügen Post
+</string>
+    <string name="chooselanguage">Wähle eine Sprache</string>
+    <string name="logout">Ausloggen</string>
+    <string name="sending_sms">Wir schicken eine SMS an</string>
+    <string name="needto">Sie müssen Abmelden</string>
+    <string name="inprogress">Überprüfung im Gange</string>
+    <string name="verified">Überprüfung erfolgreich</string>
+    <string name="failed">Verifizierung fehlgeschlagen</string>
+    <string name="entercode">Bitte geben Sie den Code, den Sie erhalten</string>
+    <string name="welcomeuser">Willkommen Benutzer !!!</string>
+    <string name="loginfb">Mit Facebook einloggen</string>
+    <string name="loginno">Einloggen mit Tel</string>
+    <string name="phoneno">Telefon-Nr</string>
+    <string name="password">Passwort</string>
+    <string name="password1">
+Passwort eingeben</string>
+    <string name="password2">Kennwort erneut eingeben</string>
+    <string name="submit">einreichen</string>
+    <string name="returnwel">Zurück zu den Beitrag Aktivität</string>
+    <string name="login">Anmeldung</string>
+    <string name="register">
+Registrieren Sie Ihre Nummer</string>
+    <string name="countrycode">
+Landesvorwahl</string>
+    <string name="enterccode">Geben Sie OTP</string>
+    <string name="verifyandwait">senden OTP</string>
+    <string name="verify">Stellen Sie sicher, OTP</string>
+    <string name="createuser">Benutzer erstellen</string>
+    <string name="title">
+Titel</string>
+    <string name="description">
+Beschreibung</string>
+    <string name="cantedit">Sie können nur überschreiben, was u gebucht haben</string>
+    <string name="info">Bewerbungsinformationen</string>
+    <string name="ok">OK</string>
+    <string name="infotitle">
+Anwendung der Anwendung</string>
+    <string name="infomessage1"> Melden Sie sich mit einer der drei Methoden in der App an</string>
+    <string name="infomessage2"> Telefonnummer sollte im internationalen Format während der Anmeldung sein </string>
+    <string name="infomessage3"> Sehen Sie eine Liste der Beiträge bereits von den Benutzern getan </string>
+    <string name="infomessage4">  Klicken Sie auf einen Post-Titel, um ihn anzuzeigen </string>
+    <string name="infomessage5"> Lange drücken Sie auf eine Post-Titel zu bearbeiten, wenn Sie es gepostet haben </string>
+    <string name="infomessage6"> Können Sie einen neuen Beitrag hinzufügen, indem Sie auf das Symbol zum Hinzufügen klicken </string>
+    <string name="infomessage7"> Sie können Sprache wählen oder sich nur in den Einstellungen abmelden </string>
+    <string name="languagesavail1"> Englisch </string>
+    <string name="languagesavail2"> Hindi </string>
+    <string name="languagesavail3">
+Französisch </string>
+    <string name="languagesavail4"> Deutsche </string>
+    <string name="languagesavail5"> Italienisch </string>
+    <string name="languagesavail6">
+japanisch </string>
+    <string name="languagesavail7"> Koreanisch </string>
+    <string name="languagesavail8"> Arabisch </string>
+    <string name="languagesavail9">
+rumänisch </string>
+    <string name="passno">Passwörter stimmen nicht überein</string>
+    <string name="userde">
+Benutzer existiert nicht</string>
+    <string name="wrong">Falsches Passwort</string>
+    <string name="successver">erfolgreich überprüft</string>
+    <string name="tryaga">Versuch es noch einmal</string>
+</resources>

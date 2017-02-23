@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Auth</string>
+    <string name="facebook_app_ID">339756553026583</string>
+    <string name="enterphonenumber">Introduïu el número de telèfon
+</string>
+    <string name="selectcountry">Select country</string>
+    <string name="sending_sms">We\'re sending an sms to</string>
+    <string name="inprogress">Verification in\nprogress</string>
+    <string name="verified">Verification successful</string>
+    <string name="failed">Verification failed</string>
+    <string name="entercode">Please enter the code you received</string>
+    <string name="welcomeuser">WELCOME USER!!!</string>
+    <string name="loginfb">Login With Facebook</string>
+    <string name="loginno">Login WIth Phone no</string>
+    <string name="phoneno">Phone No</string>
+    <string name="password">Password</string>
+    <string name="password1">Enter Password</string>
+    <string name="password2">Re-enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="returnwel">Return To Post Activity</string>
+    <string name="login">Login</string>
+    <string name="register">Register Your No</string>
+    <string name="countrycode">Country Code</string>
+    <string name="enterccode">Enter OTP</string>
+    <string name="verifyandwait">Send OTP</string>
+    <string name="verify">Verify OTP</string>
+    <string name="createuser">Create User</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="info">App Info</string>
+    <string name="ok">OK</string>
+    <string name="infotitle">"How to Use the APP"</string>
+    <string name="infomessage">"1.Sign into the app with any of the three methods\n 2.you can see a list of posts already done by the users\n 3.click on a post to view it\n4.long press on a post to edit if u have posted it \n5.you can add a new post by clicking the add icon\n6.you can choose language or just logout in settings"</string>
+
+</resources>
