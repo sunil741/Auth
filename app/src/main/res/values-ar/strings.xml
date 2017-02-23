@@ -2,7 +2,7 @@
 <resources>
     <string name="appti">تطلب</string>
 <string name="app_name">Auth</string>
-<string name="facebook_app_ID">339756553026583</string>
+<string name="facebook_app_ID">fb id</string>
 <string name="enterphonenumber">أدخل رقم هاتفك</string>
 <string name="selectcountry">حدد الدولة</string>
 <string name="addpost">اضافة</string>
